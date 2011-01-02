@@ -1,0 +1,509 @@
+[{
+    "pk": 1,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happopho",
+        "created": "2010-03-13 01:18:37",
+        "name": "Phoenix",
+        "modified": "2010-03-13 21:27:40",
+        "slug": "phoenix"
+    }
+},
+{
+    "pk": 2,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happoatl",
+        "created": "2010-03-13 01:22:57",
+        "name": "Atlanta",
+        "modified": "2010-03-13 21:20:29",
+        "slug": "atlanta"
+    }
+},
+{
+    "pk": 3,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happobo",
+        "created": "2010-03-13 01:24:29",
+        "name": "Boston",
+        "modified": "2010-03-13 21:20:41",
+        "slug": "boston"
+    }
+},
+{
+    "pk": 4,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "",
+        "created": "2010-03-13 01:25:47",
+        "name": "San Diego",
+        "modified": "2010-03-13 01:25:47",
+        "slug": "san-diego"
+    }
+},
+{
+    "pk": 5,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happochi",
+        "created": "2010-03-13 01:26:35",
+        "name": "Chicago",
+        "modified": "2010-03-13 21:21:04",
+        "slug": "chicago"
+    }
+},
+{
+    "pk": 6,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happodfw",
+        "created": "2010-03-13 01:27:57",
+        "name": "Dallas",
+        "modified": "2010-03-13 21:21:20",
+        "slug": "dallas"
+    }
+},
+{
+    "pk": 7,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happofl",
+        "created": "2010-03-13 01:30:22",
+        "name": "Miami",
+        "modified": "2010-03-13 21:22:28",
+        "slug": "miami"
+    }
+},
+{
+    "pk": 8,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happofl",
+        "created": "2010-03-13 01:31:37",
+        "name": "Jacksonville",
+        "modified": "2010-03-13 21:22:06",
+        "slug": "jacksonville"
+    }
+},
+{
+    "pk": 9,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happofl",
+        "created": "2010-03-13 01:33:19",
+        "name": "Orlando",
+        "modified": "2010-03-13 21:21:49",
+        "slug": "orlando"
+    }
+},
+{
+    "pk": 10,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happoindy",
+        "created": "2010-03-13 01:35:33",
+        "name": "Indianapolis",
+        "modified": "2010-03-13 21:24:15",
+        "slug": "indianapolis"
+    }
+},
+{
+    "pk": 11,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happokc",
+        "created": "2010-03-13 01:36:20",
+        "name": "Kansas City",
+        "modified": "2010-03-13 21:26:04",
+        "slug": "kansas-city"
+    }
+},
+{
+    "pk": 12,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happomn",
+        "created": "2010-03-13 01:36:49",
+        "name": "Minneapolis",
+        "modified": "2010-03-13 21:26:34",
+        "slug": "minneapolis"
+    }
+},
+{
+    "pk": 13,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happony",
+        "created": "2010-03-13 01:38:27",
+        "name": "New York",
+        "modified": "2010-03-13 21:26:49",
+        "slug": "new-york"
+    }
+},
+{
+    "pk": 14,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happooh",
+        "created": "2010-03-13 01:40:34",
+        "name": "Columbus",
+        "modified": "2010-03-13 21:27:06",
+        "slug": "columbus"
+    }
+},
+{
+    "pk": 15,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happophi",
+        "created": "2010-03-13 01:41:11",
+        "name": "Philadelphia",
+        "modified": "2010-03-13 21:27:24",
+        "slug": "philadelphia"
+    }
+},
+{
+    "pk": 16,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happopgh",
+        "created": "2010-03-13 01:41:39",
+        "name": "Pittsburgh",
+        "modified": "2010-03-13 21:27:53",
+        "slug": "pittsburgh"
+    }
+},
+{
+    "pk": 17,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happosf",
+        "created": "2010-03-13 01:44:40",
+        "name": "San Francisco",
+        "modified": "2010-03-13 21:28:07",
+        "slug": "san-francisco"
+    }
+},
+{
+    "pk": 18,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happoto",
+        "created": "2010-03-13 01:45:20",
+        "name": "Toronto",
+        "modified": "2010-03-13 21:28:58",
+        "slug": "toronto"
+    }
+},
+{
+    "pk": 19,
+    "model": "champion_manager.city",
+    "fields": {
+        "hashtag": "happodc",
+        "created": "2010-03-13 01:46:40",
+        "name": "Washington DC",
+        "modified": "2010-03-13 21:29:05",
+        "slug": "washington-dc"
+    }
+},
+{
+    "pk": 1,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [1],
+        "screen_name": "abbieF",
+        "modified": "2010-03-13 01:19:19",
+        "created": "2010-03-13 01:19:19"
+    }
+},
+{
+    "pk": 2,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [2],
+        "screen_name": "journalistics",
+        "modified": "2010-03-13 01:23:18",
+        "created": "2010-03-13 01:23:18"
+    }
+},
+{
+    "pk": 3,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [2],
+        "screen_name": "kellyecrane",
+        "modified": "2010-03-13 01:24:03",
+        "created": "2010-03-13 01:24:03"
+    }
+},
+{
+    "pk": 4,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [3],
+        "screen_name": "DougH",
+        "modified": "2010-03-13 01:24:31",
+        "created": "2010-03-13 01:24:31"
+    }
+},
+{
+    "pk": 5,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [4],
+        "screen_name": "rockstarjen",
+        "modified": "2010-03-13 01:26:16",
+        "created": "2010-03-13 01:26:16"
+    }
+},
+{
+    "pk": 6,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [5],
+        "screen_name": "ginidietrich",
+        "modified": "2010-03-13 01:26:37",
+        "created": "2010-03-13 01:26:37"
+    }
+},
+{
+    "pk": 7,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [5],
+        "screen_name": "prsarahevans",
+        "modified": "2010-03-13 01:26:52",
+        "created": "2010-03-13 01:26:52"
+    }
+},
+{
+    "pk": 8,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [5],
+        "screen_name": "allanschoenberg",
+        "modified": "2010-03-13 01:27:08",
+        "created": "2010-03-13 01:27:08"
+    }
+},
+{
+    "pk": 9,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [6],
+        "screen_name": "cubanalaf",
+        "modified": "2010-03-13 01:27:58",
+        "created": "2010-03-13 01:27:58"
+    }
+},
+{
+    "pk": 10,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [6],
+        "screen_name": " vedo",
+        "modified": "2010-03-13 01:29:00",
+        "created": "2010-03-13 01:29:00"
+    }
+},
+{
+    "pk": 11,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [7],
+        "screen_name": "sternalpr",
+        "modified": "2010-03-13 01:31:17",
+        "created": "2010-03-13 01:31:17"
+    }
+},
+{
+    "pk": 12,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [8],
+        "screen_name": "PRVille",
+        "modified": "2010-03-13 01:31:39",
+        "created": "2010-03-13 01:31:39"
+    }
+},
+{
+    "pk": 13,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [9],
+        "screen_name": "jamiefloer",
+        "modified": "2010-03-13 01:33:22",
+        "created": "2010-03-13 01:33:22"
+    }
+},
+{
+    "pk": 14,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [10],
+        "screen_name": "AdrienneBailey",
+        "modified": "2010-03-13 01:36:07",
+        "created": "2010-03-13 01:36:07"
+    }
+},
+{
+    "pk": 15,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [11],
+        "screen_name": "JGoldsborough",
+        "modified": "2010-03-13 01:36:22",
+        "created": "2010-03-13 01:36:22"
+    }
+},
+{
+    "pk": 16,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [12],
+        "screen_name": "arikhanson",
+        "modified": "2010-03-13 01:36:51",
+        "created": "2010-03-13 01:36:51"
+    }
+},
+{
+    "pk": 17,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [13],
+        "screen_name": "prcog",
+        "modified": "2010-03-13 01:38:29",
+        "created": "2010-03-13 01:38:29"
+    }
+},
+{
+    "pk": 18,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [13],
+        "screen_name": "dbreakenridge",
+        "modified": "2010-03-13 01:38:43",
+        "created": "2010-03-13 01:38:43"
+    }
+},
+{
+    "pk": 19,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [13],
+        "screen_name": "valeriesimon",
+        "modified": "2010-03-13 01:40:02",
+        "created": "2010-03-13 01:40:02"
+    }
+},
+{
+    "pk": 20,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [14],
+        "screen_name": "PRtini",
+        "modified": "2010-03-13 01:40:37",
+        "created": "2010-03-13 01:40:37"
+    }
+},
+{
+    "pk": 21,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [15],
+        "screen_name": "annebuchanan",
+        "modified": "2010-03-13 01:41:12",
+        "created": "2010-03-13 01:41:12"
+    }
+},
+{
+    "pk": 22,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [16],
+        "screen_name": "dferrari",
+        "modified": "2010-03-13 01:41:41",
+        "created": "2010-03-13 01:41:41"
+    }
+},
+{
+    "pk": 23,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [17],
+        "screen_name": "renesiegel",
+        "modified": "2010-03-13 01:44:43",
+        "created": "2010-03-13 01:44:43"
+    }
+},
+{
+    "pk": 24,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [17],
+        "screen_name": "shellstewart",
+        "modified": "2010-03-13 01:44:54",
+        "created": "2010-03-13 01:44:54"
+    }
+},
+{
+    "pk": 25,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [18],
+        "screen_name": "dannybrown",
+        "modified": "2010-03-13 01:45:22",
+        "created": "2010-03-13 01:45:22"
+    }
+},
+{
+    "pk": 26,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [18],
+        "screen_name": "davefleet",
+        "modified": "2010-03-13 01:45:52",
+        "created": "2010-03-13 01:45:52"
+    }
+},
+{
+    "pk": 27,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [19],
+        "screen_name": "shonali",
+        "modified": "2010-03-13 01:46:42",
+        "created": "2010-03-13 01:46:42"
+    }
+},
+{
+    "pk": 28,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [19],
+        "screen_name": "mikeschaffer",
+        "modified": "2010-03-13 01:46:57",
+        "created": "2010-03-13 01:46:57"
+    }
+},
+{
+    "pk": 29,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [19],
+        "screen_name": "heatherhuhman",
+        "modified": "2010-03-13 01:47:18",
+        "created": "2010-03-13 01:47:18"
+    }
+},
+{
+    "pk": 30,
+    "model": "champion_manager.champion",
+    "fields": {
+        "cities": [17],
+        "screen_name": "AdrienneBiggs",
+        "modified": "2010-03-13 01:49:55",
+        "created": "2010-03-13 01:49:55"
+    }
+}]

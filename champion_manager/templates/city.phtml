@@ -1,0 +1,33 @@
+{% extends 'base.phtml' %}
+
+{% block meta_description %}The latest {{city}} #HAPPO tweets for PR job seekers.{% endblock %}
+
+{% block title %}{{block.super}}: Find a job in Public Relations{% endblock %}
+{% block links %}{{block.super}}
+<link id="city_query" rel="alternate" type="application/atom+xml" title="{{city.name}}'s #happo RSS Feed" href="{{query_url}}" />
+<link id="happo_query" rel="alternate" type="application/atom+xml" title="Main #happo RSS Feed" href="http://search.twitter.com/search.atom?q=%23{{hashtag}}" />
+{% endblock %}
+{% block body_attributes %}{{block.super}} id="city"{% endblock %}
+
+{% block header_text %}<a href="{% url index %}">HAPPO: Find a job in Public Relations</a>{% endblock %}
+
+{% block content %}
+<div id="champs">
+<h2>{{city}} Champs</h2>
+	<ul id="champions">{% for champion in champions %}
+		<li id="{{champion}}"><a href="http://twitter.com/{{champion}}/">{{champion}}</a></li>
+	{% endfor%}</ul>
+</div>
+
+<div class="tweets_container">
+	<h2>Recent {{city}} champion tweets</h2>
+	<ul id="city_query_tweets" class="tweets">
+		<li class="loading_message">Loading...</li>
+	</ul>
+	
+	<h2>All recent <a href="http://search.twitter.com/search?q=%23{{hashtag}}">#{{hashtag}}</a> tweets</h2>
+	<ul id="happo_query_tweets" class="tweets">
+		<li class="loading_message">Loading...</li>
+	</ul>
+</div>
+{% endblock %}

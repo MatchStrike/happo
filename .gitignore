@@ -1,0 +1,9 @@
+*.pyc
+*.db
+*.log
+*.pyc
+.DS_Store
+Thumbs.db
+local_settings.py
+assets/css/*.r[0-9]*.css
+assets/js/*.r[0-9]*.js

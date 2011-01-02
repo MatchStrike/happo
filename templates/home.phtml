@@ -1,0 +1,20 @@
+{% extends 'base.phtml' %}
+
+{% block title %}{{block.super}}: Find a job in Public Relations{% endblock %}
+{% block body_attributes %}{{block.super}} id="home"{% endblock %}
+
+{% block header_text %}<a href="{% url index %}">HAPPO: Find a job in Public Relations</a>{% endblock %}
+
+{% block content %}
+		<div id="desc" class="{{"bcd"|random}}">
+			<p><strong>Help a PR Pro Out</strong> is a Twitter-based movement that seeks to help public relations professionals find jobs.</p>
+			<p>Give it a try. Click a region below to see all of the related HAPPO tweets for that region.</p>
+			<p>Participating is easy. Just tweet while using the <a href="http://search.twitter.com/search?q=%23happo">#HAPPO</a> hashtag.</p>
+		</div>
+		<div id="locations">
+			<ul>{% load cities %}{% get_cities %}{% for city in cities%}
+				<li><a href="{{city.get_absolute_url}}">{{city.name}}</a></li>{% endfor  %}
+			</ul>
+			<div class="clearfloat">&nbsp;</div>
+		</div>
+{% endblock %}

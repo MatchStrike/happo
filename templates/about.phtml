@@ -1,0 +1,24 @@
+{% extends 'base.phtml' %}
+
+{% block meta_description %}About HAPPO: The story behind the HAPPO hashtag movement{% endblock %}
+
+{% block title %}{{block.super}}: Help a PR pro out{% endblock %}
+{% block body_attributes %}{{block.super}} id="home"{% endblock %}
+
+{% block header_text %}<a href="{% url index %}">HAPPO: help a pr pro out</a>{% endblock %}
+
+{% block content %}
+<div id="about">
+	<h2>About HAPPO</h2>
+	<p>It's a hashtag. It's a holiday. It's a movement.</p>
+	<p>HAPPO connects public relations job seekers with public relations jobs.</p>
+	<p>It was started by <a href="http://twitter.com/arikhanson">Arik Hanson</a> and <a href="http://twitter.com/valeriesimon">Valerie Simon</a> in 2010. Thousands of tweets later, it's going strong with HAPPO champions and job-seekers all around the country.</p>
+	<h2>About the web app</h2>
+	<p>HAPPO is a quarterly event, but there are always people seeking jobs or posting jobs. As a result, HAPPO tweets tend to roll in all the time.</p>
+	<p>The team at <a href="http://matchstrike.net">Match Strike</a> saw an opportunity to organize all the regional tweets into one, easy-to-browse web app. They decided to donate a Friday to the HAPPO cause, and this website was born.</p>
+	<p>Match Strike doesn't own HAPPO, the HAPPO hashtag, or the HAPPO logo (designed by <a href="http://twitter.com/johnwalls">John Walls</a>). We just built the web app.
+	<h2>Help a web development firm out</h2>
+	<p>Match Strike is a <a href="http://matchstrike.net">versatile web development firm</a> that's eager to work with advertising or PR firms.</p>
+	<p>Need a website built? Tweet at us (<a href="http://twitter.com/rexr">@rexr</a> and <a href="http://twitter.com/cyproject">@cyproject</a>) or <a href="http://matchstrike.net/contact_us/">send us an e-mail</a>.</p>
+</div>
+{% endblock %}
